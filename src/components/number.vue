@@ -17,7 +17,6 @@
 <script>
 import Clock from './clock';
 
-// todo: calcular el tamano maximo (que sera el alto) y usarlo como ancho/alto del reloj
 const NUMBERS_SPEC = [
   // 0
   [
